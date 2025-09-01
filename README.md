@@ -28,6 +28,7 @@ This project analyzes user reviews of Genshin Impact from Google Play to underst
 Key findings from the analysis process:
 
 -   Out of 995 reviews, 616 are labeled as positive, 346 as negative, and the remaining 33 as neutral. The result is presented in the graph below.
+
     ![](assets/20250901_181825_graph.png)
 -   Positive reviews highlight high-quality visuals, engaging storylines and lore, character design, open-world exploration, combat mechanics, gameplay immersion, and more.
 -   Negative reviews highlight the "pay-to-win" gacha mechanism, repetitive grinding, unskippable cutscenes, high storage demand, performance issues on low-end devices, poor customer service, and more.
