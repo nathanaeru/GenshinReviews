@@ -19,7 +19,7 @@ This project analyzes user reviews of Genshin Impact from Google Play to underst
 
 -   Downloading and loading the dataset
 -   Classifying review sentiment (positive, negative, neutral) using IBM Granite
--   Visualizing sentiment distribution with bar charts
+-   Visualizing sentiment distribution with bar charts using NumPy library
 -   Summarizing user feedback in bullet points and paragraphs
 -   Recommending actionable improvements for developers
 
@@ -61,4 +61,4 @@ Key findings from the analysis process:
 
 ## AI Support Explanation
 
-This is a capstone project for [this online course by IBM and Hacktiv8](https://hacktiv8.com/projects/ibm) about implementing IBM Granite generative AI for data science purposes. This analysis leverages AI models ([IBM Granite 3.3-8b-instruct](https://replicate.com/ibm-granite/granite-3.3-8b-instruct)) to automate sentiment classification and generate summaries and recommendations. The AI processes each review, classifies sentiment, and synthesizes user feedback to provide actionable insights for game improvement.
+This is a capstone project for [this online course by IBM and Hacktiv8](https://hacktiv8.com/projects/ibm) about implementing IBM Granite generative AI for data science purposes. This analysis leverages an AI model ([IBM Granite 3.3-8b-instruct](https://replicate.com/ibm-granite/granite-3.3-8b-instruct)) to automate sentiment classification and generate summaries and recommendations. The AI processes each review, classifies sentiment, and synthesizes user feedback to provide actionable insights for game improvement.
